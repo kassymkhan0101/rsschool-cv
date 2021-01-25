@@ -9,3 +9,16 @@ My name is Kassymkhan. I graduated this year from Nazarbayev University. My majo
 I studied Machine Learning. I really like coding and want to be a Senior Web Developer in next 5 years. I took several courses from Coursera, Stepik, Udemy and Harvard. 
 Now, I work as a Software Developer at Cube company. We develop our ERP system by adding new features. 
 
+##  Programming skills
+*  Python
+*  Javascript
+*  Html
+*  Css
+*  Bootstrap
+*  Node
+*  SQL
+*  NoSql
+*  Tableau
+
+
+
