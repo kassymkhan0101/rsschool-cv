@@ -1,2 +1,2 @@
 # rsschool-cv
-This is my markdown and git repository
+https://kassymkhan0101.github.io/rsschool-cv/cv
