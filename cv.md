@@ -4,6 +4,11 @@
 *  phone: +7707-687-87-96
 *  skype: kasym0101
 
+## Education
+* High School: Kazakh-Turkish High School, with Gold medal
+* Foundation: UCL program
+* Bachelor: Nazarbayev University, mathematics major
+* Master's: Nazarbayev University, applied mathematics major
 
 My name is Kassymkhan. I graduated this year from Nazarbayev University. My major was Applied Mathematics. 
 I studied Machine Learning. I really like coding and want to be a Senior Web Developer in next 5 years. I took several courses from Coursera, Stepik, Udemy and Harvard. 
